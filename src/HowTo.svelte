@@ -1,11 +1,8 @@
-<style>
-    img{
-        max-width: 100%;
-    }
-</style>
+
 <div bp="grid">
     <img 
     bp="offset-5@md 4@md 12@sm"
     src="handwashimg.png"
-    alt="How to wash your hands."/>
+    alt="How to wash your hands."
+    style="width:100%"/>
 </div>
